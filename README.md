@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jingof
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning python and javascript.
+- 🌱 I’m currently advancing in python and javascript.
 - 💞️ I’m looking to collaborate on Javascipt projects.
 - 📫 How to reach me: jofanson13@gmail.com, twitter:amTiano, whatsapp +256784286046
 
