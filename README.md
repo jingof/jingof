@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jingof
 - I am an expert in Data Structures for C++.
-- 👀 I am also and expert in Machine Learning with Python and R.
+- 👀 I am also an expert in Machine Learning with Python and R.
 - 🌱 I’m currently advancing in Python and Javascript for software development.
 - 💞️ I’m looking to collaborate on Python, C++ and Javascipt projects.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/francis-jingo-321183108/
