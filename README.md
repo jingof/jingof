@@ -3,6 +3,7 @@
 - 👍🏽 I am interested in big data, machine learning with SQL and Python.
 - 🌱 Currently pursuing a Business Analytics graduate degree with Emory University.
 - 👨‍💻 I have sofware engineering experince with Python, SQL and Bash.
+- 💾 Certified as an AWS Cloud Developer, Data Science and statisctics with R.
 - 💞️ Looking to collaborate on Data science, optimization algorithms, data engineering projects.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/francis-jingo/
 - 📮 How to reach me: francisjingo3@gmail.com, Twitter: amTiano, WhatsApp: +14043790176.
